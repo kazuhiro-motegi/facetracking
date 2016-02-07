@@ -1,2 +1,2 @@
 # facetracking
-face tracking
+face tracking project
